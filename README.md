@@ -36,7 +36,7 @@ The following STRETCH features are implemented:
 
 I have chosen to duplicate the following layout from the **Twitch Sign-up Form** app:
 
-<img src='https://ibb.co/xDF9rfM' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://pasteboard.co/f9Aqe4tqsi5a.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
